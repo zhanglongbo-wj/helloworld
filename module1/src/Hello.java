@@ -4,5 +4,9 @@ public class Hello {
             System.out.println("hello world");
         }
 
+        for (int i = 0; i < 10; i++) {
+            System.out.println("hello java");
+        }
+
     }
 }
